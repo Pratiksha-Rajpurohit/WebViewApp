@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193047017774",
+    "project_id": "webviewapp-e6128",
+    "storage_bucket": "webviewapp-e6128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193047017774:android:7b24d8910f1dc86e70e2bf",
+        "android_client_info": {
+          "package_name": "com.pratiksha.webviewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjyPnXmAygZrQ8X8lXEK3js1W03SLHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
